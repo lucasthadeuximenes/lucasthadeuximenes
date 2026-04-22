@@ -1,4 +1,4 @@
-se# Lucas Ximenes
+# Lucas Ximenes
 
 ### 🛠 Infraestrutura & Engenheiro de Dados
 Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a disponibilidade de ambientes e automatizar processos. Estou em uma jornada intensiva de especialização para me tornar Engenheiro de Dados, unindo meu background em infraestrutura com o poder da arquitetura de dados moderna.
@@ -27,4 +27,4 @@ Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a
 
 ### Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-thadeu-martins-203a55160)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: [thadeuximenes.lucas@gmail.com])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
