@@ -6,10 +6,10 @@ Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a
 ---
 
 ### O que estou construindo agora?
-* ☁️ **Cloud & Infra:** Aprofundando em arquitetura AWS e Infrastructure as Code (Terraform).
-* **Python & Dados:** Desenvolvendo projetos com foco em Programação Orientada a Objetos (POO) e bibliotecas de análise (Pandas).
-* **Data Stack:** Estudando modelagem de dados e arquitetura Medallion (Bronze/Silver/Gold).
-
+* **Python & Dados:** Desenvolvendo projetos com foco em extração, tratamento e análise de Dados (Pandas, Matplotlib e Streamlit).
+* **SQL & Analytics:** Aprofundando conhecimentos de fundamentos a conceitos avançados (JOINS, Subqueries, CTEs e Windows Funcions)
+* **Git e Github:** Aprofundando conhecimentos em  versionamento, fluxos de trabalho e padrões.
+* **Modelagem e Bancos de Dados:** Estudando modelagem ( Star Schema e Snowflake Schema),  NoSQL e tipos de bancos.
 ---
 
 ### Stack Tecnológica
