@@ -5,24 +5,26 @@ Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a
 
 ---
 
-### 🚀 O que estou construindo agora?
+### O que estou construindo agora?
 * ☁️ **Cloud & Infra:** Aprofundando em arquitetura AWS e Infrastructure as Code (Terraform).
-* 🐍 **Python & Dados:** Desenvolvendo projetos com foco em Programação Orientada a Objetos (POO) e bibliotecas de análise (Pandas).
-* 🏗️ **Data Stack:** Estudando modelagem de dados e arquitetura Medallion (Bronze/Silver/Gold).
+* **Python & Dados:** Desenvolvendo projetos com foco em Programação Orientada a Objetos (POO) e bibliotecas de análise (Pandas).
+* **Data Stack:** Estudando modelagem de dados e arquitetura Medallion (Bronze/Silver/Gold).
 
 ---
 
-### 💻 Stack Tecnológica
+### Stack Tecnológica
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 Estatísticas e Certificações
-* 🎓 **AWS Certified Cloud Practitioner**
+### Estatísticas e Certificações
+*  **AWS Certified Cloud Practitioner**
+*  **Python - FIAP**
+*  **Análise e manipulação de Dados com Pandas - Udemy**
 
 ---
 
-### 📫 Vamos nos conectar?
+### Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK-DO-SEU-LINKEDIN])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL])
