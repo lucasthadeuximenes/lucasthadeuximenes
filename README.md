@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas 👋
+# Lucas Ximenes
 
 ### 🛠 Infraestrutura & Engenheiro de Dados
 Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a disponibilidade de ambientes e automatizar processos. Estou em uma jornada intensiva de especialização para me tornar Engenheiro de Dados, unindo meu background em infraestrutura com o poder da arquitetura de dados moderna.
