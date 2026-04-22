@@ -24,9 +24,13 @@ Atualmente atuando como Analista de Suporte e Infraestrutura, foco em garantir a
 ### 📊 Estatísticas e Certificações
 * 🎓 **AWS Certified Cloud Practitioner**
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasthadeuximenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasthadeuximenes&layout=compact&langs_count=7&theme=tokyonight&hide_progress=false"/>
+### 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
