@@ -18,7 +18,7 @@ Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a
 
 ---
 
-### Estatísticas e Certificações
+### Cursos e Certificações
 *  **AWS Certified Cloud Practitioner**
 *  **Python - FIAP**
 *  **Análise e manipulação de Dados com Pandas - Udemy**
