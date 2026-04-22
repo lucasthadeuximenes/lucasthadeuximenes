@@ -21,12 +21,6 @@ Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a
 ### 📊 Estatísticas e Certificações
 * 🎓 **AWS Certified Cloud Practitioner**
 
-### 🛠️ Tecnologias e Ferramentas
-
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"> | <img src="https://www.svgrepo.com/show/255832/sql.svg" width="40" height="40" alt="SQL"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"> |
-
 ---
 
 ### 📫 Vamos nos conectar?
