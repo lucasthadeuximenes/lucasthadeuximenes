@@ -7,9 +7,9 @@ Atualmente atuando como Analista de Infraestrutura e Suporte, foco em garantir a
 
 ### O que estou construindo agora?
 * **Python & Dados:** Desenvolvendo projetos com foco em extração, tratamento e análise de Dados (Pandas, Matplotlib e Streamlit).
-* **SQL & Analytics:** Aprofundando conhecimentos de fundamentos a conceitos avançados (JOINS, Subqueries, CTEs e Windows Funcions)
+* **SQL & Analytics:** Aprofundando conhecimentos de fundamentos a conceitos avançados (JOINS, Subqueries, CTEs e Window Funcions)
 * **Git e Github:** Aprofundando conhecimentos em  versionamento, fluxos de trabalho e padrões.
-* **Modelagem e Bancos de Dados:** Estudando modelagem ( Star Schema e Snowflake Schema),  NoSQL e tipos de bancos.
+* **Modelagem e Bancos de Dados:** Estudando modelagem (Star Schema e Snowflake Schema), NoSQL e tipos de bancos.
 ---
 
 ### Stacks
